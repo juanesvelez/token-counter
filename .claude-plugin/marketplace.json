@@ -1,0 +1,5 @@
+{
+  "name": "local-mods",
+  "owner": { "name": "juanesvelez" },
+  "plugins": [{ "name": "token-counter", "source": "./" }]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "token-counter",
+  "version": "0.1.0",
+  "description": "Tokens del contexto y costo equivalente vía API en la barra de estado, y un toast con los tokens y el costo de cada respuesta",
+  "author": { "name": "juanesvelez" },
+  "repository": "https://github.com/juanesvelez/token-counter"
+}
